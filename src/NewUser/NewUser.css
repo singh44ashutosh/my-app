@@ -1,0 +1,28 @@
+.new-user {
+  background-color: white;
+  border-radius: 0.5em;
+  width: 35em;
+  height: 11em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+  margin-bottom: 2em;
+}
+
+.form-control {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 0.5em;
+}
+
+.form-control label {
+  display: block;
+  min-width: 100%;
+  margin-bottom: 0.25em;
+  font-weight: 600;
+}
+
+.form-control input {
+  padding: 0.25em;
+  min-width: 98%;
+}
